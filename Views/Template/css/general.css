@@ -1,0 +1,17 @@
+body{
+	padding-top: 0px;
+	padding-right: 0px;
+}
+
+footer{
+	background-color: #EEE;
+	border-top: 10px solid #BBB;
+	font-size: 14px;
+	padding: 10px;
+	text-align: center;
+}
+
+.img_avatar{
+	height: 50px;
+	width: 50px;
+}
